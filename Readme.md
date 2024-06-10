@@ -1,4 +1,4 @@
-# Curso de GIT
+# Curso digital de GIT
 
 ## Realizado pela ADA
 
