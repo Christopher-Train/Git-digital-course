@@ -1,5 +1,5 @@
 # Curso digital de GIT
 
-## Realizado pela ADA
+## Realizado pela ADA TECH
 
 ### Realizando Modificação
