@@ -35,3 +35,6 @@ va no tyerminal e localize a pasta onde esta o repositorio utlizando o camando c
 * git remote mostra o repositorio local
 * git pull
 * git fetch esse comando baixa tudo que que foi alterado por outra pessoa porem não altera nada do repositorio origin e para ver o que foi alterado usar o comando git diff oringi/master
+* git branch teste - esse comando cria uma nova branch com o nome de teste
+* git log --online --decorete - esse comando indica em qual branch esta
+* git checkout teste - esse comando altera a branch que voce esta e passa para nova branch teste
