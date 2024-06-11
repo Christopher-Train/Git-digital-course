@@ -33,3 +33,4 @@ va no tyerminal e localize a pasta onde esta o repositorio utlizando o camando c
 * git restore e o nome do arquivo
 * git log apresta os ultimos commits realisados
 * git remote mostra o repositorio local
+* git pull
