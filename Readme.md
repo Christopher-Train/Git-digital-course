@@ -29,6 +29,7 @@ va no tyerminal e localize a pasta onde esta o repositorio utlizando o camando c
 * git add e nome do arquivo
 * git diff --staged "para para ver as modificações realizadas"
 * git commit -m e acrescentar o texto de descrição do que foi realizado entre aspas
-* git push para atualizar o repositorio online e fisico/local estejam alinhados
+* git push origin master para atualizar o repositorio online e fisico/local estejam alinhados
 * git restore e o nome do arquivo
 * git log apresta os ultimos commits realisados
+* git remote mostra o repositorio local
