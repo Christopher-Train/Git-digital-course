@@ -34,3 +34,4 @@ va no tyerminal e localize a pasta onde esta o repositorio utlizando o camando c
 * git log apresta os ultimos commits realisados
 * git remote mostra o repositorio local
 * git pull
+* git fetch esse comando baixa tudo que que foi alterado por outra pessoa porem não altera nada do repositorio origin e para ver o que foi alterado usar o comando git diff oringi/master 
