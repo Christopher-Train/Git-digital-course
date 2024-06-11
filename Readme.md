@@ -27,7 +27,7 @@
 git status
 git add e nome do arquivo
 git diff --staged "para para ver as modificações realizadas"
-git commit -m e acrescentar o nome do arquivo entre aspas
-git push para atualizar o repositorio online e fisico estejam alinhados
+git commit -m e acrescentar o texto de descrição do que foi realizado entre aspas
+git push para atualizar o repositorio online e fisico/local estejam alinhados
 git restore e o nome do arquivo
-git
+git log apresta os ultimos commits realisados
